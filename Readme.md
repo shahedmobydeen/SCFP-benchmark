@@ -78,17 +78,7 @@ python scripts/pipeline.py \--mode generate \\
     \--source\_problems\_path path/to/your/problems.csv \\  
     \--output\_path ./newly\_generated\_data.csv
 
-## **Citation**
 
-If you use this benchmark, code, or the findings from our paper in your research, please cite our work:
-
-@article{Author2025Characterizing,  
-  title   \= {Characterizing and Predicting the Failure Modes of Intrinsic {LLM} Self-Correction},  
-  author  \= {Shahed \[Your Last Name\]},  
-  journal \= {Journal of Neural Networks},  
-  year    \= {2025},  
-  note    \= {In submission}  
-}
 
 ## **License**
 
